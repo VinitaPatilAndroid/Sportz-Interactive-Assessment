@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sportz Interactive</string>
+    <string name="officials">Officials:</string>
+    <string name="result">Result:</string>
+    <string name="highlights">Highlights:</string>
+    <string name="venue">Venue:</string>
+    <string name="weather">Weather:</string>
+    <string name="view_details">View details</string>
+</resources>
